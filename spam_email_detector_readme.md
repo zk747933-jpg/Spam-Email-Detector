@@ -20,7 +20,7 @@ The **Spam Email Detector** is a machine learning-based system that classifies e
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/spam-email-detector.git
+git clone (https://github.com/zk747933-jpg/Spam-Email-Detector)
 cd spam-email-detector
 ```
 
